@@ -1,5 +1,5 @@
 # Audiobook
-<img src="Screenshot (56).png" width ="200px" height="300px">
+<img src="Screenshot (56).png" width ="250px" height="300px">
 
 **Live Project**
 
